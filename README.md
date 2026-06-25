@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mayank Gaikwad
+# Hi there 👋, I'm Mayank Sushant Gaikwad
 
 🎓 Computer engineering Student | Exploring AI/Data Science,Computer Architecture,Networking.
 
