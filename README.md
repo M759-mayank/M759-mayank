@@ -1,5 +1,3 @@
-![Uploading ChatGPT Image Jul 3, 2026, 02_36_52 PM.png…]()
-
 # Hi there 👋, I'm Mayank Sushant Gaikwad
 
 🎓 Computer engineering Student | Exploring AI/Data Science,Computer Architecture,Networking.
