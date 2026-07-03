@@ -1,5 +1,5 @@
-![Banner](<img width="1983" height="793" alt="ChatGPT Image Jul 3, 2026, 02_36_52 PM" src="https://github.com/user-attachments/assets/92af3354-f51f-4857-89d6-e5f913954353" />
-)
+<img src="<img width="1983" height="793" alt="ChatGPT Image Jul 3, 2026, 02_36_52 PM" src="https://github.com/user-attachments/assets/ad2cbbd8-6432-47cb-8071-24cbf29b0195" />
+" width="100%">
 # Hi there 👋, I'm Mayank Sushant Gaikwad
 
 🎓 Computer engineering Student | Exploring AI/Data Science,Computer Architecture,Networking.
