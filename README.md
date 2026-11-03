@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;AI+%26+Data+Science+Explorer;Campus+Ambassador+%40+ELITE+CODERS;Campus+Mantri+%40+GEEKSFORGEEKS;Artist+%26+Creative+Coder" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <h3>🎓 Computer Engineering Student</h3>
   <p><b>Exploring AI/Data Science, Computer Architecture & Networking</b></p>
   <p>Obsessed with building impactful applications and learning new technologies every day.</p>
