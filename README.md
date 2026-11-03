@@ -112,6 +112,12 @@
 </div>
 
 ---
+<div align="center">
+  <h2 style="color: #FF0000;">✨ Thanks for visiting my profile! Have a great day! 🚀</h2>
+</div>
+
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=M759-mayank&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
