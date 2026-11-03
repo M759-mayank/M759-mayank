@@ -49,6 +49,22 @@
 </div>
 
 ---
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*x5366oNt1ejGzlF-TS073w.png" width="100%" alt="Let's Code" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TZwYVr1qcxb3EcHt_kM3uiTW834M8kt-gwUmAeCbeM5L2G3EVI4_0BY&s=10" width="100%" alt="Coding From Home" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://avatars.githubusercontent.com/u/181195334?v=4" width="100%" alt="Network Node" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div align="center">
   <h3>🌐 Connect With Me:</h3>
